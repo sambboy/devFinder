@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply  bg-colorLight dark:bg-dark-veryDarkBlueDark; 
+    font-family: 'Space Mono', monospace;
+    Font-size: 15px;
+}
